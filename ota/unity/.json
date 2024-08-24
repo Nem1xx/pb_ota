@@ -4,8 +4,10 @@
       "datetime": "1724504340",
       "filename": "PixelBuilds_fleur-unity-20240824-1300.zip",
       "id": "7c9f5b417d965fefabb6b394c27493eed63919cb9758de129dab5ada62d38eec",
+      "romtype": "UNOFFICIAL",
       "size": "1543541732",
-      "url": "https://github.com/Nem1xx/pb_ota/releases/download/PixelBuilds_fleur-unity-20240824-1300/PixelBuilds_fleur-unity-20240824-1300.zip",
+      "url": "https://github.com/Nem1xx/lineage_mt6781_ota/releases/download/A-7-24082024/PixelBuilds_fleur-unity-20240824-1300.zip",
+      "version": "unity"
     }
   ]
 }
